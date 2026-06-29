@@ -1,0 +1,5 @@
+First Name,Last Name,Staff Id,Username,Email,Password,Joining Date,Gender,Date of Birth,Contact Number,Address,City,Zip,Country,Attendance Type,Company Name,Department Name,Designation Name,Shift Name,Role Name
+John,Doe,56,johndoe2,john@example2.com,Password123,2024-01-15,Male,1990-05-20,1234567890,123 Main St,New York,10001,USA,general,My Company,Software,Testing1,Morning Shift,Employee
+Jane,Smith,EMP002,janesmith,jane@example.com,Password123,2024-01-20,Female,1992-08-15,9876543210,456 Park Ave,Boston,02101,USA,general,My Company,Software,Testing1,Morning Shift,Employee
+Bob,Johnson,EMP003,bobjohnson,bob@example.com,Password123,2024-02-01,Male,1988-03-10,5551234567,789 Elm St,Chicago,60601,USA,general,My Company,Eduaction,Developer,Morning Shift,Employee
+Alice,Williams,EMP004,alicewilliams,alice@example.com,Password123,2024-02-15,Female,1995-12-25,4449876543,321 Oak St,San Francisco,94102,USA,ip_based,My Company,Eduaction,developer,Morning Shift,Employee

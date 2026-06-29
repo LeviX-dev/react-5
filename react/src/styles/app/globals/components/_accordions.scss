@@ -1,0 +1,30 @@
+[role="tab"] {
+  .btn {
+    width: 100%;
+    text-align: left;
+    &:hover,
+    &:focus {
+      text-decoration: none;
+    }
+  }
+}
+
+.accordion {
+  & > .card {
+    overflow: hidden;
+  }
+
+  .accordion-header.hide-arrow {
+    .accordion-button::after {
+      display: none;
+    }
+  }
+}
+
+[dir="rtl"] {
+  // Dismissible alerts
+  .accordion-button::after {
+    margin-right: auto;
+    margin-left: unset;
+  }
+}

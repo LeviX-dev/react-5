@@ -1,0 +1,11 @@
+.employee-dropdown .react-select__single-value,
+.employee-dropdown .react-select__option,
+.employee-dropdown .react-select__placeholder,
+.employee-dropdown .react-select__input {
+  color: black !important;
+}
+
+/* Also ensure dropdown menu background is light so black text is visible */
+.employee-dropdown .react-select__menu {
+  background-color: white !important;
+}
